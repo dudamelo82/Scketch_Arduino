@@ -1,0 +1,37 @@
+https://www.youtube.com/watch?v=qMY00cuPOz4
+
+https://www.youtube.com/watch?v=j2kHpzP7elQ
+eletroima
+
+https://www.youtube.com/watch?v=j2kHpzP7elQ
+engate
+
+https://www.youtube.com/watch?v=rODOibrDmQo
+interruptor-rele-controle
+
+https://www.msseletronica.com/detalhes/modulo-rele-para-automacao-residencial-rf-433mhz-1-canal-12vdc-com-entrada-para-interruptor-rl_pid1067.html
+Preço-modulo-rele
+
+https://www.aplike.com.br/manual13.htm
+
+http://coral.ufsm.br/cograca/eletro12.pdf
+
+http://lilith.fisica.ufmg.br/~labexp/novosite/Campo_magnetico_centro_bobina.pdf
+
+http://www.ifsc.usp.br/~strontium/Teaching/Material2010-2%20FFI0106%20LabFisicaIII/11-LeideInducaodeFaraday.pdf
+
+http://fma.if.usp.br/~mlima/teaching/4320292_2012/Cap7.pdf
+
+Calculo da Bobina
+
+
+
+introdução(apresentação do problema, analise, apresentação da solução)
+solução:
+componentes utilizados(1 pg)
+calculos(1pg)
+explicação (1pg)
+preços(0,5pg)
+dados de uso(0,5pg)
+conclusão(1pg)
+Referências(1pg)
